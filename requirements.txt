@@ -1,0 +1,4 @@
+pillow
+numpy
+scikit-image
+colorama
